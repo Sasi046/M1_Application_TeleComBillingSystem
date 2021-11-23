@@ -2,6 +2,7 @@ Introduction:
 
              You can perform and manage billing operations like they do in Telecom companies. Here, you can add records with name, phone number and the amount of payment. You can view, modify, search and delete existing records.
              You can also make payment by providing your phone number instead of name. All data added or modified are recorded in a file. How to add, list, edit, search and delete records using file handling.
+_______________________________________________________________________________________________________________________________________________________________________________            
 
 Features:
 
@@ -18,6 +19,8 @@ Features:
   ⭐ Search records – search for added/updated records in file.
   
   ⭐ Delete records – removes data permanently from file.
+ 
+______________________________________________________________________________________________________________________________________________________________________________   
   
 
 HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
@@ -28,11 +31,15 @@ HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
   
   ⭐ It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
   
+ _______________________________________________________________________________________________________________________________________________________________________________   
+  
 LOW LEVEL REQUIREMENTS :
 
   ⭐ HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
   
   ⭐ FLOAT VARIABLE : AMOUNT ,TOTAL.
+  
+________________________________________________________________________________________________________________________________________________________________________________   
   
 TIME AND COST :
 
@@ -41,6 +48,8 @@ TIME AND COST :
   ⭐ It is simple and efficient.
   
   ⭐ There is no mis calculations during peak hours.
+  
+________________________________________________________________________________________________________________________________________________________________________________   
   
 4WIH ANALYSIS :
 
@@ -53,6 +62,8 @@ TIME AND COST :
   ⭐ why - To Reduce billing to keep an eye on loss of money.
   
   ⭐ How - after buliding perfect system , testing and executing in system.
+  
+________________________________________________________________________________________________________________________________________________________________________________ 
   
 SWOT ANALYSIS :
 
