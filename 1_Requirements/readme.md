@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
   ⭐ What - It is an telecom billing system helps to do billing faster.
   
-  ⭐ Where - It Can be used in any places needs fast billing system . example: Supermarket,Medicals,Coffee Shops and etc.
+  ⭐ Where - It Can be used in any places needs fast billing system .
   
   ⭐ when - anytime.
   
