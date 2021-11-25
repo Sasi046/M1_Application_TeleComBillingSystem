@@ -1,10 +1,15 @@
-### Introduction:
+### Introduction
 
              You can perform and manage billing operations like they do in Telecom companies. Here, you can add records with name, phone number and the amount of payment. You can view, modify, search and delete existing records.
              You can also make payment by providing your phone number instead of name. All data added or modified are recorded in a file. How to add, list, edit, search and delete records using file handling.
-_______________________________________________________________________________________________________________________________________________________________________________            
+_______________________________________________________________________________________________________________________________________________________________________________ 
 
-### Features:
+
+## Operating Environment
+##### 1) single-User Environment- The system should allow for accessibility of single user.
+##### 2) User customizable for automation to support ease of implementation and enhanced reliability.
+
+### Features
 
   ⭐ Add new records: add new data into file with name, phone number and amount to be paid.
   
@@ -22,26 +27,20 @@ ________________________________________________________________________________
  
 ______________________________________________________________________________________________________________________________________________________________________________   
   
+  ## General Features
 
-### HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
-  
-  ⭐ It is a project developed especially to generate telecom billing for details.
-  
-  ⭐ It also help people do the billing process without any errors.
-  
-  ⭐ It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
-  
- _______________________________________________________________________________________________________________________________________________________________________________   
-  
-### LOW LEVEL REQUIREMENTS :
+### Major activities of the manual system is automated, which increases its throughput.
+##### • The system is fast, user friendly and interactive
+##### • The information entered is more accurate and clear
+##### • Better data management facility in terms of maintaining files which are entered in registers records.
 
-  ⭐ HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
-  
-  ⭐ FLOAT VARIABLE : AMOUNT ,TOTAL.
+
+
   
 ________________________________________________________________________________________________________________________________________________________________________________   
+
   
-### TIME AND COST :
+### TIME AND COST 
 
   ⭐ It saves lot of time compared to the manual calculation in billing system.
   
@@ -51,7 +50,7 @@ ________________________________________________________________________________
   
 ________________________________________________________________________________________________________________________________________________________________________________   
   
-### 4WIH ANALYSIS :
+### 4WIH ANALYSIS 
 
   ⭐ What - It is an telecom billing system helps to do billing faster.
   
@@ -65,16 +64,18 @@ ________________________________________________________________________________
   
 ________________________________________________________________________________________________________________________________________________________________________________ 
   
-### SWOT ANALYSIS :
-
-  ⭐ stregnth - faster Operation
-  
-  ⭐ Weakness - Nil
-  
-  ⭐ Oppurtunity - Nil
-  
-  ⭐ Threat - Nil
-  
+## SWOT ANALYSIS
+### Strengths:
+##### • Reduce the delay in processing time.
+    
+### Weakness:
+##### • Trouble in generate bills.
+    
+### Opportunities:
+#####     • Nil
+    
+### Threats:
+#####  • System Crash Errors and ommision
 ________________________________________________________________________________________________________________________________________________________________________________ 
 
 
