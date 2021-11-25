@@ -6,7 +6,7 @@
 | TID 1 | A | Adding RECORDS | SUCCESS |	SUCCESS |	PASS 
 | TID 2 |	D	| Delete RECORDS|	SUCCESS	| SUCCESS	 | PASS
 | TID 3	| M	| Modify RECORDS | Records |	SUCCESS |	SUCCESS	|PASS
-| TID 4 |	L	| LIST of RECORDS	| SUCCESS	| SUCCESS	| PASS
+| TID 4 |	P	| PAYMENT RECORDS	| SUCCESS	| SUCCESS	| PASS
 | TID 5	| S	| Searching RECORDS | SUCCESS |	SUCCESS | PASS
 | TID 6	| E |	Exit | SUCCESS |	SUCCESS	| PASS
 
@@ -35,7 +35,7 @@
 ![System Page](https://user-images.githubusercontent.com/94299033/143383743-f2e5808f-b535-46df-a423-541e61889119.jpeg)
 
 
-### Record List Page:
+### Payment List Page:
 
 
 ![RECORD LIST](https://user-images.githubusercontent.com/94299033/143383928-740fd495-8a0a-4d7d-96f8-19ac903165ca.jpeg)
