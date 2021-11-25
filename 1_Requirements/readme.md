@@ -35,7 +35,24 @@ ________________________________________________________________________________
 ##### • Better data management facility in terms of maintaining files which are entered in registers records.
 
 
+## Details requirements
+### High Level Requirements:
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | User shall be able to Add new RECORDS (A) | Implemented
+|HLR2  | User shall be able to Delete RECORDS (D) | Implemented
+|HLR3  | User shall be able to Modifying RECORDS (M) |	Implemented
+|HLR4  | User shall be able to  PAYMENT RECORDS (P) |	Implemented
+|HLR5  | User shall be able For Search RECORDS(S) |	Implemented
+|HLR6  | User shall be able to Exit(E) |	Implemented
 
+#### Low Level Requirements:
+
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | User shall be able to fetch RECORDS | Implemented 
+| LLR2 |System must display data without error | Implemented
+  
   
 ________________________________________________________________________________________________________________________________________________________________________________   
 
