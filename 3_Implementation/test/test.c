@@ -18,9 +18,9 @@ int main()
   UNITY_BEGIN();
 
 /* Run Test functions */
-  RUN_TEST(test_deleteproduct);
-  RUN_TEST(test_search_item);
-  RUN_TEST(test_add_item);
+  RUN_TEST(test_deleterecords);
+  RUN_TEST(test_searchrecords);
+  RUN_TEST(test_addrecord);
 
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -44,12 +44,12 @@ void test_addrecords(void)
 {
     char name[20]="KHYIOP";
 
-    char company[20]="NIRMAL";
+    char company[20]="SASI";
 
     char price [20]="1000";
 
  TEST_ASSERT_EQUAL("KHYIOP", name);
- TEST_ASSERT_EQUAL("NIRMAL", company);
+ TEST_ASSERT_EQUAL("SASI", company);
  TEST_ASSERT_EQUAL("1000", price);
    
 }
