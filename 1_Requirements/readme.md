@@ -1,10 +1,10 @@
-Introduction:
+### Introduction:
 
              You can perform and manage billing operations like they do in Telecom companies. Here, you can add records with name, phone number and the amount of payment. You can view, modify, search and delete existing records.
              You can also make payment by providing your phone number instead of name. All data added or modified are recorded in a file. How to add, list, edit, search and delete records using file handling.
 _______________________________________________________________________________________________________________________________________________________________________________            
 
-Features:
+### Features:
 
   ⭐ Add new records: add new data into file with name, phone number and amount to be paid.
   
@@ -23,7 +23,7 @@ Features:
 ______________________________________________________________________________________________________________________________________________________________________________   
   
 
-HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
+### HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
   
   ⭐ It is a project developed especially to generate telecom billing for details.
   
@@ -33,7 +33,7 @@ HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT :
   
  _______________________________________________________________________________________________________________________________________________________________________________   
   
-LOW LEVEL REQUIREMENTS :
+### LOW LEVEL REQUIREMENTS :
 
   ⭐ HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
   
@@ -41,7 +41,7 @@ LOW LEVEL REQUIREMENTS :
   
 ________________________________________________________________________________________________________________________________________________________________________________   
   
-TIME AND COST :
+### TIME AND COST :
 
   ⭐ It saves lot of time compared to the manual calculation in billing system.
   
@@ -51,7 +51,7 @@ TIME AND COST :
   
 ________________________________________________________________________________________________________________________________________________________________________________   
   
-4WIH ANALYSIS :
+### 4WIH ANALYSIS :
 
   ⭐ What - It is an telecom billing system helps to do billing faster.
   
@@ -65,7 +65,7 @@ ________________________________________________________________________________
   
 ________________________________________________________________________________________________________________________________________________________________________________ 
   
-SWOT ANALYSIS :
+### SWOT ANALYSIS :
 
   ⭐ stregnth - faster Operation
   
