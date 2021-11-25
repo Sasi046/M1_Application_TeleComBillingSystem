@@ -75,39 +75,7 @@ ________________________________________________________________________________
 | LLR1 | User shall be able to fetch RECORDS | Implemented 
 | LLR2 |System must display data without error | Implemented
   
-### TIME AND COST 
 
-  ⭐ It saves lot of time compared to the manual calculation in billing system.
-  
-  ⭐ It is simple and efficient.
-  
-  ⭐ There is no mis calculations during peak hours.
-  
-________________________________________________________________________________________________________________________________________________________________________________   
-  
-### 4WIH ANALYSIS 
-
-  ⭐ What - It is an telecom billing system helps to do billing faster.
-  
-  ⭐ Where - It Can be used in any places needs fast billing system .
-  
-  ⭐ when - anytime.
-  
-  ⭐ why - To Reduce billing to keep an eye on loss of money.
-  
-  ⭐ How - after buliding perfect system , testing and executing in system.
-  
-________________________________________________________________________________________________________________________________________________________________________________ 
-  
-### SWOT ANALYSIS 
-
-  ⭐ stregnth - faster Operation
-  
-  ⭐ Weakness - Nil
-  
-  ⭐ Oppurtunity - Nil
-  
-  ⭐ Threat - Nil
   
 ________________________________________________________________________________________________________________________________________________________________________________ 
 
