@@ -7,7 +7,7 @@
 
 
 
-###INTRODUCTION
+### INTRODUCTION
 
              You can perform and manage billing operations like they do in Telecom companies. Here, you can add records with name, phone number and the amount of payment. You can view, modify, search and delete existing records.
              You can also make payment by providing your phone number instead of name. All data added or modified are recorded in a file. How to add, list, edit, search and delete records using file handling.
@@ -38,7 +38,7 @@ Folder               | Description
 
 
 
-Features
+### Features
 
   ⭐ Add new records: add new data into file with name, phone number and amount to be paid.
   
@@ -57,25 +57,25 @@ Features
 ______________________________________________________________________________________________________________________________________________________________________________   
   
 
-HIGH LEVEL REQUIREMENTS : TELECOM BILLING SYSTEM ABOUT THE PROJECT 
-  
-  ⭐ It is a project developed especially to generate telecom billing for details.
-  
-  ⭐ It also help people do the billing process without any errors.
-  
-  ⭐ It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
-  
- _______________________________________________________________________________________________________________________________________________________________________________   
-  
-LOW LEVEL REQUIREMENTS 
+## Details requirements
+### High Level Requirements:
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | User shall be able to Add new RECORDS (A) | Implemented
+|HLR2  | User shall be able to Delete RECORDS (D) | Implemented
+|HLR3  | User shall be able to Modifying RECORDS (M) |	Implemented
+|HLR4  | User shall be able to  PAYMENT RECORDS (P) |	Implemented
+|HLR5  | User shall be able For Search RECORDS(S) |	Implemented
+|HLR6  | User shall be able to Exit(E) |	Implemented
 
-  ⭐ HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
+#### Low Level Requirements:
+
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | User shall be able to fetch RECORDS | Implemented 
+| LLR2 |System must display data without error | Implemented
   
-  ⭐ FLOAT VARIABLE : AMOUNT ,TOTAL.
-  
-________________________________________________________________________________________________________________________________________________________________________________   
-  
-TIME AND COST 
+### TIME AND COST 
 
   ⭐ It saves lot of time compared to the manual calculation in billing system.
   
@@ -85,7 +85,7 @@ TIME AND COST
   
 ________________________________________________________________________________________________________________________________________________________________________________   
   
-4WIH ANALYSIS 
+### 4WIH ANALYSIS 
 
   ⭐ What - It is an telecom billing system helps to do billing faster.
   
@@ -99,7 +99,7 @@ ________________________________________________________________________________
   
 ________________________________________________________________________________________________________________________________________________________________________________ 
   
-SWOT ANALYSIS 
+### SWOT ANALYSIS 
 
   ⭐ stregnth - faster Operation
   
